@@ -5,6 +5,8 @@ To navigate slideshows, use arrow keys
 
 Ideas
 
+*  [Introducing Software Carpentry (NYGC)](http://JenniferShelton.github.io/slideshows/nygc-introducing-software-carpentry/index.html)
+
 *  [Introducing Software Carpentry](http://swcarpentry.github.io/slideshows/introducing-software-carpentry/index.html)
 *  [Software Carpentry: Lessons Learned](http://swcarpentry.github.io/slideshows/lessons-learned/index.html)
 *  [Best Practices for Scientific Computing](http://swcarpentry.github.io/slideshows/best-practices/index.html)
